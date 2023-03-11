@@ -14,7 +14,7 @@ hide_streamlit_style = """
             # MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             footer:after {
-            content:'Created by Alia and shatha';
+            content:'Created by Alia  Alqasmi and shatha Alkamyani';
             visibility: visible;
             display: block;
             position: relative;
